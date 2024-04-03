@@ -1,0 +1,57 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+background-color: darkseagreen;
+font-family:monospace;
+font-size: 300%;
+}
+
+table,tr,th{
+    padding:30px;
+    word-spacing:30%;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color:purple;
+    margin: 20px;
+}
+h1
+{
+ text-align: center;
+
+}
+
+h5{
+text-align: center;
+font-size: 40px;
+}
+
+
+img{
+border-radius: 2cm;
+width: 70%;
+margin:3% auto;
+display:flex;
+}
+
+.fashion{
+text-align: center;
+}
+
+table,tr,th,img1
+{
+  border-radius: 0cm;
+}
+
+.shoesphoto,h3,h4{
+ text-align: center;
+}
+
+h2{
+text-align: center;
+}
